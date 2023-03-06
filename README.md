@@ -9,9 +9,9 @@
 | 京东 | [暑期实习](https://campus.jd.com/#/jobs?selProjects=38) |        | 3.6 |          | 北京 |
 | 腾讯音乐 |  [暑期实习](https://join.tencentmusic.com/campus/) |        | 3.6 | 4.11 | 深圳 |
 | 百度 | [暑期实习](https://talent.baidu.com/jobs/) | IZ3J9T | 3.1 |          | 北京 |
+| 美团 | [暑期实习](https://zhaopin.meituan.com/web/position?hiringType=2_2) | RRG87SR | 2.27 | 5.31 | 北京 |
 | 携程 | [暑期实习](https://campus.ctrip.com/#/) |        | 2.27 | 5.22 | 上海 |
 | 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/) |        | 2.22 | 5.26 | 上海 |
-| 美团 |          |        |          |          |      |
 
 ### 手机厂、车企、制造业
 

@@ -6,6 +6,7 @@
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 |
 | ---- | -------- | ------ | -------- | -------- | ---- |
 | 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          |      |
+| 腾讯音乐 |  [暑期实习](https://join.tencentmusic.com/campus/) |        | 3.6 | 4.11 | 深圳 |
 | 百度 | [暑期实习](https://talent.baidu.com/jobs/) | IZ3J9T | 3.1 |          | 北京 |
 | 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/) |        | 2.22 | 5.26 | 上海 |
 | 携程 |          |        |          |          |      |

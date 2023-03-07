@@ -13,6 +13,8 @@
 | 美团 | [暑期实习](https://zhaopin.meituan.com/web/position?hiringType=2_2) | RRG87SR | 2.27 | 5.31 | 北京 |
 | 携程 | [暑期实习](https://campus.ctrip.com/#/) |        | 2.27 | 5.22 | 上海 |
 | 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/) |        | 2.22 | 5.26 | 上海 |
+| 旷视科技 | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) |        | 2.20 | 4.30 | 北京 |
+
 
 ### 手机厂、车企、制造业
 

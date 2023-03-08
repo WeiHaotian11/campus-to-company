@@ -9,7 +9,7 @@
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) |        | 3.16 | 5.19 | 北京 | 备注 |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 | 备注 |
 | 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          |      | 备注 |
-| 快手 | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) |        |  |  | 北京 | 备注 |
+| 快手 | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) |        |  |  | 北京 | 手机端无法筛选暑期实习 |
 | 京东 | [暑期实习](https://campus.jd.com/#/jobs?selProjects=38) |        | 3.6 |          | 北京 | 手机端看不了，建议使用电脑查看 |
 | 腾讯音乐 |  [暑期实习](https://join.tencentmusic.com/campus/) |        | 3.6 | 4.11 | 深圳 | 备注 |
 | 百度 | [暑期实习](https://talent.baidu.com/jobs/) | IZ3J9T | 3.1 |          | 北京 | 备注 |

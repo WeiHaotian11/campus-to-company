@@ -7,6 +7,7 @@
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) |        | 3.16 | 5.19 | 北京 | 备注 |
+| 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 | 备注 |
 | 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          |      | 备注 |
 | 快手 | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) |        |  |  | 北京 | 备注 |
 | 京东 | [暑期实习](https://campus.jd.com/#/jobs?selProjects=38) |        | 3.6 |          | 北京 | 备注 |

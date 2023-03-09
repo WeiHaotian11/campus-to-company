@@ -1,4 +1,4 @@
->更新时间：2023年3月8日
+>更新时间：2023年3月9日
 
 ## 实习篇 [秋招篇](./another-page.html)
 
@@ -13,6 +13,7 @@
 | 腾讯音乐 |  [暑期实习](https://join.tencentmusic.com/campus/) |        | 3.6 | 4.11 | 深圳 | 备注 |
 | 腾讯 |  [实习](https://careers.tencent.com/campusrecruit.html) |        | 3.2 |  | 深圳 | 不区分日常实习与暑期实习 |
 | 百度 | [暑期实习](https://talent.baidu.com/jobs/) | IZ3J9T | 3.1 |          | 北京 | 备注 |
+| 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern?channel=EiCweVfK) |  | 3.1 | 4.20  | 杭州 | 备注 |
 | 美团 | [暑期实习](https://zhaopin.meituan.com/web/home) | RRG87SR | 2.27 | 5.31 | 北京 | 备注 |
 | 携程 | [暑期实习](https://campus.ctrip.com/#/) |        | 2.27 | 5.22 | 上海 | 备注 |
 | 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/) |        | 2.22 | 5.26 | 上海 | 备注 |

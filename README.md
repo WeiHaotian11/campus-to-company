@@ -31,6 +31,7 @@
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) |        | 3.16 | 5.19 | 北京 | 备注 |
+| 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 | 备注 |
 | 理想 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) |        |          |          | 北京 | 备注 |
 | OPPO | [尚未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但还未发布具体内容 |
 |      |          |        |          |          |      | 备注 |

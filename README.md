@@ -1,6 +1,6 @@
 >更新时间：2023年3月9日
 
-## <font color="#30CFD0">实习篇</font> [秋招篇](./another-page.html)
+## <font color="blue">实习篇</font> [秋招篇](./another-page.html)
 
 ### 互联网
 

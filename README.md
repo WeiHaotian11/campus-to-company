@@ -7,6 +7,7 @@
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 | 备注 |
+| 字节跳动 | [暑期实习](https://jobs.bytedance.com/campus) |        | 3.9 |  | 北京 | 长期开放 |
 | 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          |      | 备注 |
 | 快手 | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) |        |  |  | 北京 | 手机端无法筛选暑期实习 |
 | 京东 | [暑期实习](https://campus.jd.com/#/jobs?selProjects=38) |        | 3.6 |          | 北京 | 手机端看不了，建议使用电脑查看 |

@@ -37,6 +37,7 @@
 | 第四范式 | [日常实习](https://app.mokahr.com/campus-recruitment/4paradigm/58145#/) |        |          |          | 北京 | 非应届生，全年招聘 |
 | 地平线 | [日常实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/interns.html) |        |          |          | 北京 |  |
 | 格灵深瞳 | [日常实习](https://deepglint.com/joinus) |        |          |          | 北京 |  |
+| 兰亭集势 | [日常实习](https://app.mokahr.com/campus-recruitment/lightinthebox/56219?sourceToken=8abd2e4c2853da7fde5321e11673449b#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        |          |          | 上海 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 

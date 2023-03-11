@@ -22,7 +22,7 @@
 | 58同城 | [暑期实习](https://campus.58.com/#page1) |        |  |  | 北京 | 备注 |
 | 网易 | [日常实习](https://hr.163.com/job-list.html?workType=1) |        |          |          | 杭州 | 备注 |
 | 滴滴 | [日常实习](https://app.mokahr.com/apply/didiglobal/6222#/) |        |  |          | 北京 | 备注 |
-|      |          |        |          |          |      | 备注 |
+| 爱奇艺 | [日常实习](https://careers.iqiyi.com/) |        |          |          | 北京 | 备注 |
 |      |          |        |          |          |      | 备注 |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 

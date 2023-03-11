@@ -1,5 +1,5 @@
->本网站计划追踪2024届及之后的实习与秋招<br>
->欢迎点击上方按钮前往github为我们star<br>
+>本站计划追踪2024届及之后的实习与秋招<br><br>
+>欢迎点击上方按钮前往github为我们star<br><br>
 >更新时间：2023年3月11日
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -60,7 +60,7 @@
 | vivo | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        |          |          | 东莞 | 2023届实习生 |
 | 小鹏 | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) |        |          |          | 广州 |  |
 | 大疆 | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) |        |          |          | 深圳 |  |
-| OPPO | [暂未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但还未发布具体内容 |
+| OPPO | [暂未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但未发布具体内容 |
 
 
 ### <font color="#1E6CB7">游戏公司</font>

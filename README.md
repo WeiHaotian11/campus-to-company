@@ -29,6 +29,7 @@
 | 小红书 | [日常实习](https://job.xiaohongshu.com/intern) |        |          |          | 上海 |  |
 | 知乎 | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) |        |          |          | 北京 |  |
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) |        |          |          | 上海 |  |
+| 深信服 | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) |        |          |          | 深圳 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 

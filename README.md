@@ -24,7 +24,7 @@
 | 滴滴 | [日常实习](https://app.mokahr.com/apply/didiglobal/6222#/) |        |  |          | 北京 | 备注 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
+| 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 
 ### <font color="#1E6CB7">手机厂、车企及其他制造业</font>
@@ -35,7 +35,7 @@
 | 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 | 备注 |
 | 理想 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) |        |          |          | 北京 | 备注 |
 | 中兴 | [暑期实习](https://job.zte.com.cn/cn/campus-recruitment) |        |          |          | 深圳 | 备注 |
-| OPPO | [尚未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但还未发布具体内容 |
+| OPPO | [暂未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但还未发布具体内容 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |

@@ -25,6 +25,7 @@
 | 滴滴 | [日常实习](https://app.mokahr.com/apply/didiglobal/6222#/) |        |  |          | 北京 | 备注 |
 | 爱奇艺 | [日常实习](https://careers.iqiyi.com/) |        |          |          | 北京 | 备注 |
 | 用友 | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) |        |          |          | 上海 | 备注 |
+| 360 | [日常实习](https://360campus.zhiye.com/intern/jobs) |        |          |          | 北京 | 备注 |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 

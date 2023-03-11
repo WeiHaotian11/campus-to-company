@@ -52,6 +52,7 @@
 | 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 | 备注 |
 | 理想 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) |        |          |          | 北京 | 备注 |
 | 中兴 | [暑期实习](https://job.zte.com.cn/cn/campus-recruitment) |        |          |          | 深圳 | 备注 |
+| 华为 | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) |        |          |          | 深圳 |  |
 | OPPO | [暂未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但还未发布具体内容 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
@@ -97,4 +98,5 @@
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
 
->更新时间：2023年3月9日
+
+>内推码及其他合作请联系weihaotian_1999@126.com

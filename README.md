@@ -33,6 +33,7 @@
 | 金山wps | [日常实习](https://join.wps.cn/campus-recruitment/wps/41436#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        |          |          | 珠海 | 仅面向2023届 |
 | 斗鱼 | [日常实习](https://app.mokahr.com/campus_apply/douyu/21995#/) |        |          |          | 武汉 |  |
 | 搜狐 | [日常实习](https://app.mokahr.com/campus_apply/sohu/28313#/) |        |          |          | 北京 |  |
+| 商汤 | [日常实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) |        |          |          | 上海 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 

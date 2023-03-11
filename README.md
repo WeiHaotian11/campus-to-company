@@ -1,4 +1,5 @@
->本网站计划于今年起追踪2024届及之后的实习与秋招<br>
+>本网站计划追踪2024届及之后的实习与秋招<br>
+>欢迎点击上方按钮前往github为我们star<br>
 >更新时间：2023年3月11日
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)

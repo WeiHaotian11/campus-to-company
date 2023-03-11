@@ -35,6 +35,7 @@
 | 搜狐 | [日常实习](https://app.mokahr.com/campus_apply/sohu/28313#/) |        |          |          | 北京 |  |
 | 商汤 | [日常实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) |        |          |          | 上海 |  |
 | 第四范式 | [日常实习](https://app.mokahr.com/campus-recruitment/4paradigm/58145#/) |        |          |          | 北京 | 非应届生，全年招聘 |
+| 地平线 | [日常实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/interns.html) |        |          |          | 北京 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 

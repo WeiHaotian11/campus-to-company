@@ -27,6 +27,7 @@
 | 用友 | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) |        |          |          | 上海 | 备注 |
 | 360 | [日常实习](https://360campus.zhiye.com/intern/jobs) |        |          |          | 北京 | 飞扬实习生 |
 | 小红书 | [日常实习](https://job.xiaohongshu.com/intern) |        |          |          | 上海 |  |
+| 知乎 | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) |        |          |          | 北京 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 

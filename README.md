@@ -59,11 +59,7 @@
 | vivo | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        |          |          | 东莞 | 2023届实习生 |
 | 小鹏 | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) |        |          |          | 广州 |  |
 | OPPO | [暂未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但还未发布具体内容 |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
+
 
 ### <font color="#1E6CB7">游戏公司</font>
 
@@ -74,33 +70,26 @@
 | 完美世界 | [暑期实习](https://recruit.games.wanmei.com) |        | 2.22 |          | 北京 | 招满即止 |
 | 昆仑万维 | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) |  |  |  | 北京 |  |
 | 掌趣科技 | [日常实习](https://app.mokahr.com/campus-recruitment/ourpalm/43628#/jobs?zhineng=85096) |        |          |          | 北京 |  |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
+
 
 ### <font color="#1E6CB7">银行、金融科技公司</font>
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 东方财富 | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) |        |          |          | 上海 | 实习岗位混杂在校招岗位里 |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
+
 
 ### <font color="#1E6CB7">外企</font>
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 特斯拉 | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/41460#/) |        |          |          | 上海 |  |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
+
 
 ### <font color="#1E6CB7">科研院所</font>
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
-|      |          |        |          |          |      | 备注 |
-|      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
 
 

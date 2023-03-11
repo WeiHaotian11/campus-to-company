@@ -23,7 +23,7 @@
 | 贝壳找房 | [暑期实习](http://campus.ke.com/adcrecru3.aspx) |        |  |  | 北京 |  |
 | 58同城 | [暑期实习](https://campus.58.com/#page1) |        |  |  | 北京 |  |
 | 网易 | [日常实习](https://hr.163.com/job-list.html?workType=1) |        |          |          | 杭州 |  |
-| 滴滴 | [日常实习](https://app.mokahr.com/apply/didiglobal/6222#/) |        |  |          | 北京 |  |
+| 滴滴 | [日常实习](https://app.mokahr.com/apply/didiglobal/6222#/) | DSpfmmgy |  |          | 北京 |  |
 | 爱奇艺 | [日常实习](https://careers.iqiyi.com/) |        |          |          | 北京 |  |
 | 用友 | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) |        |          |          | 上海 |  |
 | 360 | [日常实习](https://360campus.zhiye.com/intern/jobs) |        |          |          | 北京 | 飞扬实习生 |

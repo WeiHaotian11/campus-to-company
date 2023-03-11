@@ -56,6 +56,7 @@
 | 华为 | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) |        |          |          | 深圳 |  |
 | 小米 | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) |        |          |          | 北京 |  |
 | vivo | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        |          |          | 东莞 | 2023届实习生 |
+| 小鹏 | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) |        |          |          | 广州 |  |
 | OPPO | [暂未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但还未发布具体内容 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |

@@ -21,7 +21,7 @@
 | 旷视科技 | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) |        | 2.20 | 4.30 | 北京 | 备注 |
 | 58同城 | [暑期实习](https://campus.58.com/#page1) |        |  |  | 北京 | 备注 |
 | 网易 | [日常实习](https://hr.163.com/job-list.html?workType=1) |        |          |          | 杭州 | 备注 |
-|      |          |        |          |          |      | 备注 |
+| 滴滴 | [日常实习](https://app.mokahr.com/apply/didiglobal/6222#/) |        |  |          | 北京 | 备注 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |

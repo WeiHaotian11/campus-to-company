@@ -9,7 +9,7 @@
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 |  |
 | 字节跳动 | [暑期实习](https://jobs.bytedance.com/campus) |        | 3.9 |  | 北京 | 长期开放 |
-| 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          |      |  |
+| 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          | 杭州 |  |
 | 快手 | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) |        |  |  | 北京 | 手机端无法筛选暑期实习 |
 | 京东 | [暑期实习](https://campus.jd.com/#/jobs?selProjects=38) |        | 3.6 |          | 北京 | 手机端看不了，建议使用电脑查看 |
 | 腾讯音乐 |  [暑期实习](https://join.tencentmusic.com/campus/) |        | 3.6 | 4.11 | 深圳 |  |
@@ -66,8 +66,8 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
-| 吉比特游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) |        | 3.7 |          |      |  |
-| 米哈游 | [暑期实习](https://campus.mihoyo.com/#/campus) |        | 2.22 | 4.30 | 上海 |  |
+| 吉比特游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 1FF42D | 3.7 |          | 厦门 |  |
+| 米哈游 | [暑期实习](https://campus.mihoyo.com/#/campus) | TW29 | 2.22 | 4.30 | 上海 |  |
 | 完美世界 | [暑期实习](https://recruit.games.wanmei.com) |        | 2.22 |          | 北京 | 招满即止 |
 | 昆仑万维 | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) |  |  |  | 北京 |  |
 | 掌趣科技 | [日常实习](https://app.mokahr.com/campus-recruitment/ourpalm/43628#/jobs?zhineng=85096) |        |          |          | 北京 |  |

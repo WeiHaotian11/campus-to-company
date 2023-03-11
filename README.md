@@ -1,3 +1,4 @@
+>本网站计划于今年起追踪2024届及之后的实习与秋招
 >更新时间：2023年3月11日
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -50,7 +51,7 @@
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) |        | 3.16 | 5.19 | 北京 | 备注 |
 | 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 | 备注 |
-| 理想 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) |        |          |          | 北京 | 备注 |
+| 理想 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) |        |          |          | 北京 | 查看全部职位，筛选招聘类型为 实习 |
 | 中兴 | [暑期实习](https://job.zte.com.cn/cn/campus-recruitment) |        |          |          | 深圳 | 备注 |
 | 华为 | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) |        |          |          | 深圳 |  |
 | 小米 | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) |        |          |          | 北京 |  |

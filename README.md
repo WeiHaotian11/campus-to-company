@@ -1,4 +1,4 @@
->更新时间：2023年3月9日
+>更新时间：2023年3月11日
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
 
@@ -67,7 +67,7 @@
 | 米哈游 | [暑期实习](https://campus.mihoyo.com/#/campus) |        | 2.22 | 4.30 | 上海 | 备注 |
 | 完美世界 | [暑期实习](https://recruit.games.wanmei.com) |        | 2.22 |          | 北京 | 招满即止 |
 | 昆仑万维 | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) |  |  |  | 北京 |  |
-|      |          |        |          |          |      | 备注 |
+| 掌趣科技 | [日常实习](https://app.mokahr.com/campus-recruitment/ourpalm/43628#/jobs?zhineng=85096) |        |          |          | 北京 |  |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
 

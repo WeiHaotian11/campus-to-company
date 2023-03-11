@@ -51,6 +51,7 @@
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) |        | 3.16 | 5.19 | 北京 | 备注 |
 | 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 | 备注 |
+| 吉利 | [暑期实习](https://campus.geely.com/hcm-web/#/jobs/school?year=2024%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F&postName=&company=&location=) |  | 2.15 |  | 杭州 |  |
 | 理想 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) |        |          |          | 北京 | 查看全部职位，筛选招聘类型为 实习 |
 | 中兴 | [暑期实习](https://job.zte.com.cn/cn/campus-recruitment) |        |          |          | 深圳 | 备注 |
 | 华为 | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) |        |          |          | 深圳 |  |

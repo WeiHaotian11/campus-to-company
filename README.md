@@ -41,7 +41,6 @@
 | 百词斩 | [日常实习](https://join.baicizhan.com/campus) |        |          |          | 成都 | 需扫码关注公众号 |
 | 猿辅导 | [日常实习](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/) |        |          |          | 北京 | 实习岗位混杂在校招岗位里 |
 | YY | [日常实习]([https://app.mokahr.com/social-recruitment/yylive/78008#/](https://app.mokahr.com/social-recruitment/yylive/78008#/jobs?zhineng=&page=1&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&anchorName=jobsList)) |        |          |          | 广州 |  |
-| 昆仑万维 | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) |  |  |  | 北京 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 
@@ -67,6 +66,7 @@
 | 吉比特游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) |        | 3.7 |          |      |  |
 | 米哈游 | [暑期实习](https://campus.mihoyo.com/#/campus) |        | 2.22 | 4.30 | 上海 | 备注 |
 | 完美世界 | [暑期实习](https://recruit.games.wanmei.com) |        | 2.22 |          | 北京 | 招满即止 |
+| 昆仑万维 | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) |  |  |  | 北京 |  |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |
 |      |          |        |          |          |      | 备注 |

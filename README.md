@@ -78,6 +78,7 @@
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 东方财富 | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) |        |          |          | 上海 | 实习岗位混杂在校招岗位里 |
+| 中国平安 | [日常实习](https://campus.pingan.com/internStudent) |        |          |          | 深圳 |  |
 
 
 ### <font color="#1E6CB7">外企</font>

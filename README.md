@@ -31,6 +31,7 @@
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) |        |          |          | 上海 |  |
 | 深信服 | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) |        |          |          | 深圳 |  |
 | 金山wps | [日常实习](https://join.wps.cn/campus-recruitment/wps/41436#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        |          |          | 珠海 | 仅面向2023届 |
+| 斗鱼 | [日常实习](https://app.mokahr.com/campus_apply/douyu/21995#/) |        |          |          | 武汉 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 | 备注 |
 
 

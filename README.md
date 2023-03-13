@@ -68,6 +68,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 搜狐畅游 | [暑期实习](https://app.mokahr.com/campus_apply/sohu/28313#/) | DSuzMMpJ |  |  | 北京 |  |
 | 吉比特游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 1FF42D | 3.7 |          | 厦门 |  |
 | 米哈游 | [暑期实习](https://campus.mihoyo.com/#/campus) | TW29 | 2.22 | 4.30 | 上海 |  |
 | 完美世界 | [暑期实习](https://recruit.games.wanmei.com) |        | 2.22 |          | 北京 | 招满即止 |

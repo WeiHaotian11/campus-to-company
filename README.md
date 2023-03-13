@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年3月13日<br><br>
+>更新时间：2023年3月14日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -8,6 +8,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 得物 | [暑期实习](https://campus.dewu.com/campus_apply/thedu/37483/#/jobs?project=100060107) |        | 3.13 |  | 上海 |  |
 | 小红书 | [暑期实习](https://job.xiaohongshu.com/campus) |        | 3.13 | 4.29 | 上海 | 技术实习生 |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 |  |
 | 字节跳动 | [暑期实习](https://jobs.bytedance.com/campus) |        | 3.9 |  | 北京 | 长期开放 |

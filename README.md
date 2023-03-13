@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年3月11日<br><br>
+>更新时间：2023年3月13日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -8,6 +8,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 小红书 | [暑期实习](https://job.xiaohongshu.com/campus) |        | 3.13 | 4.29 | 上海 | 技术实习生 |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 |  |
 | 字节跳动 | [暑期实习](https://jobs.bytedance.com/campus) |        | 3.9 |  | 北京 | 长期开放 |
 | 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          | 杭州 |  |
@@ -28,7 +29,6 @@
 | 爱奇艺 | [日常实习](https://careers.iqiyi.com/) |        |          |          | 北京 |  |
 | 用友 | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) |        |          |          | 上海 |  |
 | 360 | [日常实习](https://360campus.zhiye.com/intern/jobs) |        |          |          | 北京 | 飞扬实习生 |
-| 小红书 | [日常实习](https://job.xiaohongshu.com/intern) |        |          |          | 上海 |  |
 | 知乎 | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) |        |          |          | 北京 |  |
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) |        |          |          | 上海 |  |
 | 深信服 | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) |        |          |          | 深圳 |  |

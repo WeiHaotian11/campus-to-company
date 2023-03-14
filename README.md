@@ -8,6 +8,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 满帮 | [暑期实习](https://www.shixiseng.com/com/com_noyl8fyna6p6) |        | 3.14 |  | 南京 |  |
 | 得物 | [暑期实习](https://campus.dewu.com/campus_apply/thedu/37483/#/jobs?project=100060107) |        | 3.13 |  | 上海 |  |
 | 小红书 | [暑期实习](https://job.xiaohongshu.com/campus) |        | 3.13 | 4.29 | 上海 | 技术实习生 |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 |  |

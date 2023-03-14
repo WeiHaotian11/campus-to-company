@@ -20,7 +20,6 @@
 | 腾讯音乐 |  [暑期实习](https://join.tencentmusic.com/campus/) |        | 3.6 | 4.11 | 深圳 |  |
 | 腾讯 |  [实习](https://careers.tencent.com/campusrecruit.html) |        | 3.2 |  | 深圳 | 不区分日常实习与暑期实习 |
 | 百度 | [暑期实习](https://talent.baidu.com/jobs/) | IZ3J9T | 3.1 |          | 北京 |  |
-| 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern?channel=EiCweVfK) | [内推链接](https://xiaozhao.leihuo.netease.com/neitui/m/#/?introduceId=1i65lY2bxYXqrkI1) | 3.1 | 4.20  | 杭州 |  |
 | 美团 | [暑期实习](https://zhaopin.meituan.com/web/position?hiringType=2_2) | RRG87SR | 2.27 | 5.31 | 北京 |  |
 | 携程 | [暑期实习](https://campus.ctrip.com/#/) |        | 2.27 | 5.22 | 上海 |  |
 | 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/) |        | 2.22 | 5.26 | 上海 |  |
@@ -74,6 +73,7 @@
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 搜狐畅游 | [暑期实习](https://app.mokahr.com/campus_apply/sohu/28313#/) | DSuzMMpJ |  |  | 北京 |  |
 | 吉比特游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 1FF42D | 3.7 |          | 厦门 |  |
+| 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern?channel=EiCweVfK) | [内推链接](https://xiaozhao.leihuo.netease.com/neitui/m/#/?introduceId=1i65lY2bxYXqrkI1) | 3.1 | 4.20  | 杭州 |  |
 | 米哈游 | [暑期实习](https://campus.mihoyo.com/#/campus) | TW29 | 2.22 | 4.30 | 上海 |  |
 | 完美世界 | [暑期实习](https://recruit.games.wanmei.com) |        | 2.22 |          | 北京 | 招满即止 |
 | 昆仑万维 | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) |  |  |  | 北京 |  |

@@ -45,7 +45,7 @@
 | 百词斩 | [日常实习](https://join.baicizhan.com/campus) |        |          |          | 成都 | 需扫码关注公众号 |
 | 猿辅导 | [日常实习](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/) |        |          |          | 北京 | 实习岗位混杂在校招岗位里 |
 | YY | [日常实习](https://app.mokahr.com/social-recruitment/yylive/78008#/jobs?zhineng=&page=1&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&anchorName=jobsList) |  |  |  | 广州 |  |
-| 图森未来 | [日常实习](https://app.mokahr.com/campus_apply/tusenweilai/68335#/jobs?zhineng=67382) | DS5wWzCE | 3.14 |          | 上海 |  |
+| 图森未来 | [日常实习](https://app.mokahr.com/campus_apply/tusenweilai/68335#/jobs?zhineng=67382) | DS5wWzCE | 3.14 |          | 北京 |  |
 | 超聚变 | [日常实习](https://wecruit.hotjob.cn/SU61349d05bef57c3b637f238b/mc/position/intern?acotycoCode=onfpfr&projectId=100201%2C100301%2C100302%2C100401%2C100501%2C100502%2C100503) | onfpfr |          |          |  |  |
 | 合合信息 | [日常实习](https://intsig.zhiye.com/intern/jobs) | EVKMB0 |          |          | 上海 |  |
 | 新浪 | [暂未开放](https://career.sina.com.cn/campus-recruitment/sina/43536) |        |          |          | 北京 |  |

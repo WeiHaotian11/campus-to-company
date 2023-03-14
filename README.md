@@ -15,7 +15,7 @@
 | 字节跳动 | [暑期实习](https://jobs.bytedance.com/campus) |        | 3.9 |  | 北京 | 长期开放 |
 | 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          | 杭州 |  |
 | 快手 | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) |        |  |  | 北京 | 手机端无法筛选暑期实习 |
-| 京东 | [暑期实习](https://campus.jd.com/#/jobs?selProjects=38) |        | 3.6 |          | 北京 | 手机端看不了，建议使用电脑查看 |
+| 京东 | [暑期实习](https://campus.jd.com/#/jobs?selProjects=38) |        | 3.6 |          | 北京 | 手机端显示异常，电脑端可正常查看 |
 | 腾讯音乐 |  [暑期实习](https://join.tencentmusic.com/campus/) |        | 3.6 | 4.11 | 深圳 |  |
 | 腾讯 |  [实习](https://careers.tencent.com/campusrecruit.html) |        | 3.2 |  | 深圳 | 不区分日常实习与暑期实习 |
 | 百度 | [暑期实习](https://talent.baidu.com/jobs/) | IZ3J9T | 3.1 |          | 北京 |  |

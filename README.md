@@ -12,6 +12,7 @@
 | 得物 | [暑期实习](https://campus.dewu.com/campus_apply/thedu/37483/#/jobs?project=100060107) |        | 3.13 |  | 上海 |  |
 | 小红书 | [暑期实习](https://job.xiaohongshu.com/campus) |        | 3.13 | 4.29 | 上海 | 技术实习生 |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus) |        | 3.10 |  | 杭州 |  |
+| 地平线 | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | [内推链接](https://wecruit.hotjob.cn/SU62d915040dcad43c775ec12c/mc/position/campus?acotycoCode=mxwbxf) | 3.10 | 4.10 | 北京 | 实习岗位在校园招聘里 |
 | 字节跳动 | [暑期实习](https://jobs.bytedance.com/campus) |        | 3.9 |  | 北京 | 长期开放 |
 | 阿里巴巴 | [暑期实习](https://talent.alibaba.com/campus/) |        | 3.8 |          | 杭州 |  |
 | 快手 | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/?workLocationCode=domestic) |        |  |  | 北京 | 手机端无法筛选暑期实习 |
@@ -39,7 +40,6 @@
 | 搜狐 | [日常实习](https://app.mokahr.com/campus_apply/sohu/28313#/) |        |          |          | 北京 |  |
 | 商汤 | [日常实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) |        |          |          | 上海 |  |
 | 第四范式 | [日常实习](https://app.mokahr.com/campus-recruitment/4paradigm/58145#/) |        |          |          | 北京 | 非应届生，全年招聘 |
-| 地平线 | [日常实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/interns.html) |        |          |          | 北京 |  |
 | 格灵深瞳 | [日常实习](https://deepglint.com/joinus) |        |          |          | 北京 |  |
 | 兰亭集势 | [日常实习](https://app.mokahr.com/campus-recruitment/lightinthebox/56219?sourceToken=8abd2e4c2853da7fde5321e11673449b#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        |          |          | 上海 |  |
 | 百词斩 | [日常实习](https://join.baicizhan.com/campus) |        |          |          | 成都 | 需扫码关注公众号 |

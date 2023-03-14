@@ -20,7 +20,7 @@
 | 腾讯 |  [实习](https://careers.tencent.com/campusrecruit.html) |        | 3.2 |  | 深圳 | 不区分日常实习与暑期实习 |
 | 百度 | [暑期实习](https://talent.baidu.com/jobs/) | IZ3J9T | 3.1 |          | 北京 |  |
 | 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern?channel=EiCweVfK) |  | 3.1 | 4.20  | 杭州 |  |
-| 美团 | [暑期实习](https://zhaopin.meituan.com/web/home) | RRG87SR | 2.27 | 5.31 | 北京 |  |
+| 美团 | [暑期实习](https://zhaopin.meituan.com/web/position?hiringType=2_2) | RRG87SR | 2.27 | 5.31 | 北京 |  |
 | 携程 | [暑期实习](https://campus.ctrip.com/#/) |        | 2.27 | 5.22 | 上海 |  |
 | 拼多多 | [暑期实习](https://careers.pinduoduo.com/campus/) |        | 2.22 | 5.26 | 上海 |  |
 | 旷视科技 | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) |        | 2.20 | 4.30 | 北京 |  |

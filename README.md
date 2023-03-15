@@ -96,6 +96,7 @@
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 特斯拉 | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/41460#/) |        |          |          | 上海 |  |
 | SHEIN | [日常实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs?zhineng=&commitment=%E5%AE%9E%E4%B9%A0&location=&page=1) |  |  |  | 南京 | 23届有转正 |
+| 埃森哲 | [日常实习](https://wecruit.hotjob.cn/SU62a9a03f2f9d247188491b75/pb/interns.html) |  |  |  | 上海 |  |
 
 
 ### <font color="#1E6CB7">科研院所</font>

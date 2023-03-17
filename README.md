@@ -73,7 +73,7 @@
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 搜狐畅游 | [暑期实习](https://app.mokahr.com/campus_apply/sohu/28313#/) | DSuzMMpJ |  |  | 北京 |  |
-| 莉莉丝游戏 | [暑期实习](https://lilithgames.jobs.feishu.cn/intern) |  | 3.9 |  |  |  |
+| 莉莉丝游戏 | [暑期实习](https://lilithgames.jobs.feishu.cn/intern) |  | 3.9 |  | 上海 | 招满即止 |
 | 吉比特游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 1FF42D | 3.7 |          | 厦门 |  |
 | 网易雷火 | [暑期实习](https://leihuo.163.com/campus/#/intern?channel=EiCweVfK) | [内推链接](https://xiaozhao.leihuo.netease.com/neitui/m/#/?introduceId=1i65lY2bxYXqrkI1) | 3.1 | 4.20  | 杭州 |  |
 | 米哈游 | [暑期实习](https://campus.mihoyo.com/#/campus) | TW29 | 2.22 | 4.30 | 上海 |  |

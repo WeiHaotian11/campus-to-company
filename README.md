@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年3月17日<br><br>
+>更新时间：2023年3月18日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -96,6 +96,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| PayPal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) |        | 3.17 | 3.29 | 上海 |  |
 | 特斯拉 | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/41460#/) |        |          |          | 上海 |  |
 | SHEIN | [日常实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs?zhineng=&commitment=%E5%AE%9E%E4%B9%A0&location=&page=1) |  |  |  | 南京 | 23届有转正 |
 | 埃森哲 | [日常实习](https://wecruit.hotjob.cn/SU62a9a03f2f9d247188491b75/pb/interns.html) |  |  |  | 上海 |  |

@@ -99,7 +99,7 @@
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 罗克韦尔 | [暑期实习](https://jobs.51job.com/all/co289138.html?timestamp__1258=n4f2Y5D5iKGKBIPGNDQbiQDkzvMpImlC6CoD&alichlgref=https%3A%2F%2Fwww.bing.com%2F#syzw) | | 3.17 |  | 大连 | 软件开发/软件测试实习生，工作地点筛选为大连再下拉查找 |
 | PayPal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) |        | 3.17 | 3.29 | 上海 |  |
-| 戴尔 | [暑期实习](https://chinajobs.dell.com/%e6%b1%82%e8%81%8c) |        | 3.16 | 5.31 | 厦门 | 类别勾选 实习 |
+| 戴尔 | [暑期实习](https://chinajobs.dell.com/%e6%b1%82%e8%81%8c) |        | 3.16 | 5.31 | 厦门 | 类别勾选为实习 |
 | 特斯拉 | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/41460#/) |        |          |          | 上海 |  |
 | SHEIN | [日常实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs?zhineng=&commitment=%E5%AE%9E%E4%B9%A0&location=&page=1) |  |  |  | 南京 | 23届有转正 |
 | 埃森哲 | [日常实习](https://wecruit.hotjob.cn/SU62a9a03f2f9d247188491b75/pb/interns.html) |  |  |  | 上海 |  |

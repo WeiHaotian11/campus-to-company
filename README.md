@@ -56,6 +56,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| OPPO | [暑期实习](https://careers.oppo.com/campus/post/home/) |        | 3.20 |          | 深圳 |  |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) | XZLMWHT2023 | 3.16 | 5.19 | 北京 |  |
 | 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 |  |
 | 吉利 | [暑期实习](https://campus.geely.com/hcm-web/#/jobs/school?year=2024%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F&postName=&company=&location=) |  | 2.15 |  | 杭州 |  |
@@ -66,7 +67,6 @@
 | vivo | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        |          |          | 东莞 | 2023届实习生 |
 | 小鹏 | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) |        |          |          | 广州 |  |
 | 大疆 | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) |        |          |          | 深圳 |  |
-| OPPO | [暂未开放](https://careers.oppo.com/campus/) |        |          |          | 深圳 | 官网已经有暑期实习入口，但未发布具体内容 |
 
 
 ### <font color="#1E6CB7">游戏公司</font>

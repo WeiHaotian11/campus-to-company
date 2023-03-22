@@ -56,6 +56,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| vivo | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        | 3.20 |  | 东莞 | 2024届实习生 |
 | OPPO | [暑期实习](https://careers.oppo.com/campus/post/home/) |        | 3.20 |          | 深圳 |  |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) | XZLMWHT2023 | 3.16 | 5.19 | 北京 |  |
 | 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 |  |
@@ -64,7 +65,6 @@
 | 中兴 | [暑期实习](https://job.zte.com.cn/cn/campus-recruitment) |        |          |          | 深圳 |  |
 | 华为 | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) |        |          |          | 深圳 |  |
 | 小米 | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) |        |          |          | 北京 |  |
-| vivo | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        |          |          | 东莞 | 2023届实习生 |
 | 小鹏 | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) |        |          |          | 广州 |  |
 | 大疆 | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) |        |          |          | 深圳 |  |
 

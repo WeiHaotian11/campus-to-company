@@ -99,7 +99,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
-| 亚马逊 | [暑期实习](https://www.amazon.jobs/zh/teams/internships-for-students) |        |  |  | 北京 |  |
+| 亚马逊 | [暑期实习](https://www.amazon.jobs/zh/teams/internships-for-students) |        |  |  | 北京 | 实习时长12-16周 |
 | 罗克韦尔 | [暑期实习](https://jobs.51job.com/all/co289138.html?timestamp__1258=n4f2Y5D5iKGKBIPGNDQbiQDkzvMpImlC6CoD&alichlgref=https%3A%2F%2Fwww.bing.com%2F#syzw) | | 3.17 |  | 大连 | 软件开发/软件测试实习生，工作地点筛选为大连再下拉查找 |
 | PayPal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) |        | 3.17 | 3.29 | 上海 |  |
 | 戴尔 | [暑期实习](https://chinajobs.dell.com/%e6%b1%82%e8%81%8c) |        | 3.16 | 5.31 | 厦门 | 类别勾选为实习 |

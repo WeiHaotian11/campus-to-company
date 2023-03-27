@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年3月24日<br><br>
+>更新时间：2023年3月27日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -99,6 +99,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 亚马逊 | [暑期实习](https://www.amazon.jobs/zh/teams/internships-for-students) |        |  |  | 北京 |  |
 | 罗克韦尔 | [暑期实习](https://jobs.51job.com/all/co289138.html?timestamp__1258=n4f2Y5D5iKGKBIPGNDQbiQDkzvMpImlC6CoD&alichlgref=https%3A%2F%2Fwww.bing.com%2F#syzw) | | 3.17 |  | 大连 | 软件开发/软件测试实习生，工作地点筛选为大连再下拉查找 |
 | PayPal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) |        | 3.17 | 3.29 | 上海 |  |
 | 戴尔 | [暑期实习](https://chinajobs.dell.com/%e6%b1%82%e8%81%8c) |        | 3.16 | 5.31 | 厦门 | 类别勾选为实习 |

@@ -88,6 +88,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 华泰证券 | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) |  | 3.24 | 5.07 | 南京 |  |
 | 招商银行 | [暑期实习](https://career.cmbchina.com/#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82) |  | 2.28 | 4.09 | 深圳 |  |
 | 数禾科技 | [暑期实习](https://shuhezhaopin.zhiye.com/intern) | EVVMBJ | 2.28 |  | 上海 |  |
 | 金证科技 | [暑期实习](https://szkingdom.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%2251%22%2C%22label%22%3A%22%E5%BC%80%E5%8F%91%E7%B1%BB%22%7D%5D) | ESVP9V | 1.10 |  | 深圳 |  |

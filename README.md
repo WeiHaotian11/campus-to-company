@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年3月28日<br><br>
+>更新时间：2023年3月30日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -88,6 +88,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 广发基金 | [暑期实习](https://www.hotjob.cn/wt/gfjj/web/index/overseas) |  | 3.24 |  | 广州 |  |
 | 华泰证券 | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) |  | 3.24 | 5.07 | 南京 |  |
 | 招商银行 | [暑期实习](https://career.cmbchina.com/#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82) |  | 2.28 | 4.09 | 深圳 |  |
 | 数禾科技 | [暑期实习](https://shuhezhaopin.zhiye.com/intern) | EVVMBJ | 2.28 |  | 上海 |  |

@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年4月5日<br><br>
+>更新时间：2023年4月7日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -59,6 +59,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 荣耀 | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) |        | 4.7 | 4.26 | 深圳 |  |
 | vivo | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        | 3.20 |  | 深圳 | 2024届实习生 |
 | OPPO | [暑期实习](https://careers.oppo.com/campus/post/home/) |        | 3.20 |          | 深圳 |  |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) | XZLMWHT2023 | 3.16 | 5.19 | 北京 |  |

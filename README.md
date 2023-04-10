@@ -107,7 +107,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
-| 德勤 | [暑期实习](https://deloitte.wintalent.cn/wt/Deloitte/web/index#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IlN0dWRlbnRzIiwidGl0bGVFTiI6IlN0dWRlbnRzIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QvRGVsb2l0dGUvd2ViL2luZGV4L2ludGVybnM~2FYnJhbmRDb2RlPTEiLCJpbmRleCI6MiwiZW50cmFuY2VUeXBlIjoxfQ) |  |  |  | 多地 |  |
+| 德勤 | [暑期实习](https://deloitte.wintalent.cn/wt/Deloitte/web/index#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IlN0dWRlbnRzIiwidGl0bGVFTiI6IlN0dWRlbnRzIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QvRGVsb2l0dGUvd2ViL2luZGV4L2ludGVybnM~2FYnJhbmRDb2RlPTEiLCJpbmRleCI6MiwiZW50cmFuY2VUeXBlIjoxfQ) |  | 4.7 | 5.7 | 多地 |  |
 | SHEIN | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs?zhineng=&commitment=%E5%AE%9E%E4%B9%A0&location=&page=1) |  | 3.27 |  | 南京 |  |
 | 亚马逊 | [暑期实习](https://www.amazon.jobs/zh/teams/internships-for-students) |        |  |  | 北京 | 实习时长12-16周 |
 | 罗克韦尔 | [暑期实习](https://jobs.51job.com/all/co289138.html?timestamp__1258=n4f2Y5D5iKGKBIPGNDQbiQDkzvMpImlC6CoD&alichlgref=https%3A%2F%2Fwww.bing.com%2F#syzw) | | 3.17 |  | 大连 | 软件开发/软件测试实习生，工作地点筛选为大连再下拉查找 |

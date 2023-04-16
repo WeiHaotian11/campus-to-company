@@ -64,7 +64,7 @@
 | OPPO | [暑期实习](https://careers.oppo.com/campus/post/home/) |        | 3.20 |          | 深圳 |  |
 | 联想 | [暑期实习](https://talent.lenovo.com.cn/home) | XZLMWHT2023 | 3.16 | 5.19 | 北京 |  |
 | 蔚来 | [暑期实习](https://campus.nio.com/#/) |        | 3.1 | 6.30 | 上海 |  |
-| 吉利 | [暑期实习](https://campus.geely.com/hcm-web/#/jobs/school?year=2024%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F&postName=&company=&location=) |  | 2.15 | 5.31 | 杭州 |  |
+| 吉利 | [暑期实习](https://campus.geely.com/hcm-web/#/jobs/school?year=2024%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F&postName=&company=&location=) |  | 1.31 | 5.31 | 杭州 |  |
 | 理想 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) |        |          |          | 北京 | 查看全部职位，筛选招聘类型为 实习 |
 | 中兴 | [暑期实习](https://job.zte.com.cn/cn/campus-recruitment) |        |          |          | 深圳 |  |
 | 华为 | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) |        |          |          | 深圳 |  |
@@ -107,6 +107,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 思科 | [暑期实习](https://www.shixiseng.com/com/com_lrbjts53lgva) |  | 4.14 |  | 北京、大连 |  |
 | 德勤 | [暑期实习](https://deloitte.wintalent.cn/wt/Deloitte/web/index#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IlN0dWRlbnRzIiwidGl0bGVFTiI6IlN0dWRlbnRzIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QvRGVsb2l0dGUvd2ViL2luZGV4L2ludGVybnM~2FYnJhbmRDb2RlPTEiLCJpbmRleCI6MiwiZW50cmFuY2VUeXBlIjoxfQ) |  | 4.7 | 5.7 | 多地 |  |
 | SHEIN | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs?zhineng=&commitment=%E5%AE%9E%E4%B9%A0&location=&page=1) |  | 3.27 |  | 南京 |  |
 | 亚马逊 | [暑期实习](https://www.amazon.jobs/zh/teams/internships-for-students) |        |  |  | 北京 | 实习时长12-16周 |

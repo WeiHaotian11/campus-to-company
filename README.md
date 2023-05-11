@@ -8,7 +8,6 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---------------- |
-| 新华三 | [暑期实习](https://career.h3c.com/h3c/home/index?page=inter) |        | 5.8 |  | 杭州、北京 |  |
 | 虎牙 | [暑期实习](https://app.mokahr.com/campus_apply/huya/4112#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        | 4.3 |  | 广州 |  |
 | 虹软科技 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) |        | 3.27 |  | 杭州 |  |
 | 顺丰科技 | [暑期实习](https://campus.sf-express.com/#/recruitmentList?intern=1) |        | 3.24 |  | 深圳 | “新探”实习生计划 |
@@ -60,6 +59,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 新华三 | [暑期实习](https://career.h3c.com/h3c/home/index?page=inter) |        | 5.8 |  | 杭州、北京 |  |
 | 飞腾 | [暑期实习](https://www.wjx.top/vm/OtY5kGP.aspx) |        | 4.14 |  | 天津 | 投递方式为问卷或邮箱 |
 | 荣耀 | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) |        | 4.7 | 4.26 | 深圳 |  |
 | vivo | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        | 3.20 |  | 深圳 | 2024届实习生 |
@@ -110,7 +110,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
-| 博世 | [暑期实习](https://app.mokahr.com/campus-recruitment/bosch/73873#/) |  | 4.27 |  | 上海 |  |
+| 博世 | [暑期实习](https://app.mokahr.com/campus-recruitment/bosch/75909?previewKey=baff66c17d3242258454126a050b31fa4e89696edea6493c873d7976577a7fac#/jobs) |  | 4.27 |  | 上海 |  |
 | 思科 | [暑期实习](https://www.shixiseng.com/com/com_lrbjts53lgva) |  | 4.14 |  | 北京、大连 |  |
 | 德勤 | [暑期实习](https://deloitte.wintalent.cn/wt/Deloitte/web/index#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IlN0dWRlbnRzIiwidGl0bGVFTiI6IlN0dWRlbnRzIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QvRGVsb2l0dGUvd2ViL2luZGV4L2ludGVybnM~2FYnJhbmRDb2RlPTEiLCJpbmRleCI6MiwiZW50cmFuY2VUeXBlIjoxfQ) |  | 4.7 | 5.7 | 多地 |  |
 | SHEIN | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs?zhineng=&commitment=%E5%AE%9E%E4%B9%A0&location=&page=1) |  | 3.27 |  | 南京 |  |

@@ -8,6 +8,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---------------- |
+| 金山云 | [暑期实习](https://app.mokahr.com/campus-recruitment/kingsoft/39364#/) |        | 5.5 | 5.31 | 武汉 | 星云训练营 |
 | 虎牙 | [暑期实习](https://app.mokahr.com/campus_apply/huya/4112#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        | 4.3 |  | 广州 |  |
 | 虹软科技 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) |        | 3.27 |  | 杭州 |  |
 | 顺丰科技 | [暑期实习](https://campus.sf-express.com/#/recruitmentList?intern=1) |        | 3.24 |  | 深圳 | “新探”实习生计划 |

@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年4月17日<br><br>
+>更新时间：2023年5月11日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -107,6 +107,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 博世 | [暑期实习](https://app.mokahr.com/campus-recruitment/bosch/73873#/) |  | 4.27 |  | 上海 |  |
 | 思科 | [暑期实习](https://www.shixiseng.com/com/com_lrbjts53lgva) |  | 4.14 |  | 北京、大连 |  |
 | 德勤 | [暑期实习](https://deloitte.wintalent.cn/wt/Deloitte/web/index#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IlN0dWRlbnRzIiwidGl0bGVFTiI6IlN0dWRlbnRzIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QvRGVsb2l0dGUvd2ViL2luZGV4L2ludGVybnM~2FYnJhbmRDb2RlPTEiLCJpbmRleCI6MiwiZW50cmFuY2VUeXBlIjoxfQ) |  | 4.7 | 5.7 | 多地 |  |
 | SHEIN | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs?zhineng=&commitment=%E5%AE%9E%E4%B9%A0&location=&page=1) |  | 3.27 |  | 南京 |  |

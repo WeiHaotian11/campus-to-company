@@ -8,6 +8,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---------------- |
+| 新华三 | [暑期实习](https://career.h3c.com/h3c/home/index?page=inter) |        | 5.8 |  | 杭州、北京 |  |
 | 虎牙 | [暑期实习](https://app.mokahr.com/campus_apply/huya/4112#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        | 4.3 |  | 广州 |  |
 | 虹软科技 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) |        | 3.27 |  | 杭州 |  |
 | 顺丰科技 | [暑期实习](https://campus.sf-express.com/#/recruitmentList?intern=1) |        | 3.24 |  | 深圳 | “新探”实习生计划 |

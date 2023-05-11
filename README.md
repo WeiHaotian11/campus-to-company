@@ -60,6 +60,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 飞腾 | [暑期实习](https://www.wjx.top/vm/OtY5kGP.aspx) |        | 4.14 |  | 天津 | 投递方式为问卷或邮箱 |
 | 荣耀 | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) |        | 4.7 | 4.26 | 深圳 |  |
 | vivo | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        | 3.20 |  | 深圳 | 2024届实习生 |
 | OPPO | [暑期实习](https://careers.oppo.com/campus/post/home/) |        | 3.20 |          | 深圳 |  |
@@ -92,6 +93,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
+| 兴业银行 | [暑期实习](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/interns.html) |  | 4.28 | 5.31 | 福州 |  |
 | 招联 | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/index.html#/) |  | 4.3 | 5.7 | 深圳 |  |
 | 广发基金 | [暑期实习](https://www.hotjob.cn/wt/gfjj/web/index/overseas) |  | 3.24 |  | 广州 |  |
 | 华泰证券 | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) |  | 3.24 | 5.07 | 南京 |  |

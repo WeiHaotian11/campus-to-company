@@ -1,5 +1,5 @@
 >本站计划追踪24届及之后的实习与秋招<br><br>
->更新时间：2023年5月11日<br><br>
+>更新时间：2023年5月13日<br><br>
 >欢迎点击上方按钮前往github为我们star！
 
 ## <font color="#1E6CB7">实习篇</font> [<font color="gray">秋招篇</font>](./another-page.html)
@@ -8,6 +8,7 @@
 
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---------------- |
+| 迈瑞医疗 | [暑期实习](https://career.mindray.com/8/jobs) |        | 5.12 |  | 深圳 | 启瑞计划 |
 | 金山云 | [暑期实习](https://app.mokahr.com/campus-recruitment/kingsoft/39364#/) |        | 5.5 | 5.31 | 武汉 | 星云训练营 |
 | 虎牙 | [暑期实习](https://app.mokahr.com/campus_apply/huya/4112#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) |        | 4.3 |  | 广州 |  |
 | 虹软科技 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) |        | 3.27 |  | 杭州 |  |

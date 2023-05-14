@@ -100,7 +100,7 @@
 | 兴业银行 | [暑期实习](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/interns.html) |  | 4.28 | 5.31 | 福州 |  |
 | 工银瑞信 | [暑期实习](https://wecruit.hotjob.cn/SU60419b4dbef57c66a923b081/pb/index#/) |  | 4.12 | 5.3 | 北京 |  |
 | 招联 | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/index.html#/) |  | 4.3 | 5.7 | 深圳 |  |
-| 广发基金 | [暑期实习](https://www.hotjob.cn/wt/gfjj/web/index/overseas) |  | 3.24 |  | 广州 |  |
+| 广发基金 | [暑期实习](https://www.hotjob.cn/wt/gfjj/web/index/overseas) |  | 3.24 | 5.18 | 广州 | 校招提前批 |
 | 华泰证券 | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) |  | 3.24 | 5.07 | 南京 |  |
 | 中国银行 | [暑期实习](https://campus.chinahr.com/pages/2023-boc-spring/#/springjobs) |  | 3.16 | 4.10 | 北京 |  |
 | 邮储银行 | [暑期实习](https://psbckj2023.zhaopin.com/trainee.html) |  | 3.7 | 4.3 | 北京 |  |

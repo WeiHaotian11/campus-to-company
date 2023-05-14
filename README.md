@@ -62,6 +62,8 @@
 | 公司 | 投递链接 | 内推码 | 开始日期 | 截止日期 | 地点 | 备注 |
 | ---- | -------- | ------ | -------- | -------- | ---- | ---- |
 | 新华三 | [暑期实习](https://career.h3c.com/h3c/home/index?page=inter) |        | 5.8 |  | 杭州、北京 |  |
+| 京东方 | [暑期实习](http://campus.boe.com/xzzw2022) |        | 4.20 |  | 北京 | 星云计划 |
+| 宁德时代 | [暑期实习](https://app.mokahr.com/campus-recruitment/catlhr/92133#/jobs) |        | 4.17 |  | 宁德 |  |
 | 飞腾 | [暑期实习](https://www.wjx.top/vm/OtY5kGP.aspx) |        | 4.14 |  | 天津 | 投递方式为问卷或邮箱 |
 | 荣耀 | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) |        | 4.7 | 4.26 | 深圳 |  |
 | vivo | [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) |        | 3.20 |  | 深圳 | 2024届实习生 |
